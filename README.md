@@ -19,4 +19,6 @@
 - Exponentiation
 - Factorial
 - random number generator
-- 
+- square root
+- Cube root
+
