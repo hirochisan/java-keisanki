@@ -3,10 +3,10 @@
 - There are other functions such as random number generation, but don't expect too much.
 - ⚠This class is only supporting japanese. but soon I will add supporting English.So please wait.
 
-#useage
+# useage
 - run git https://www.github.com/hirochisan/java-keisanki
 - run java asobi2
 
-#future
+# future
 - add window
 - support more langage
