@@ -4,7 +4,7 @@
 - ⚠This class is only supporting japanese. but soon I will add supporting English.So please wait.
 
 # useage
-- run git https://www.github.com/hirochisan/java-keisanki
+- run git clone https://www.github.com/hirochisan/java-keisanki
 - run java asobi2
 
 # future
