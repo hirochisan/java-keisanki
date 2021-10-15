@@ -10,3 +10,13 @@
 # future
 - add window
 - support more langage
+
+# function
+- addtion
+- subtraction
+- multiplication
+- division
+- Exponentiation
+- Factorial
+- random number generator
+- 
