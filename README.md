@@ -4,14 +4,14 @@
 - ⚠This class is only supporting japanese. but soon I will add supporting English.So please wait.
 
 # useage
-- run git clone https://www.github.com/hirochisan/java-keisanki
-- run java asobi2
+- run ```git clone https://www.github.com/hirochisan/java-keisanki```
+- run ```java asobi2```
 
 # future
 - add window
 - support more langage
 
-# function
+# features
 - addtion
 - subtraction
 - multiplication
