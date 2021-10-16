@@ -7,10 +7,6 @@
 - run ```git clone https://www.github.com/hirochisan/java-keisanki```
 - run ```java asobi2```
 
-# future
-- add window
-- support more langage
-
 # features
 - addtion
 - subtraction
@@ -21,3 +17,6 @@
 - square root
 - Cube root
 
+# future
+- add window
+- more langage
