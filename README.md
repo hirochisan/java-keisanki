@@ -4,8 +4,8 @@
 - ⚠This class is only supporting japanese. but soon I will add supporting English.So please wait.
 
 # useage
-- run ```git clone https://www.github.com/hirochisan/java-keisanki```
-- run ```java asobi2```
+- download latest release
+- run ```java -jar calculator.jar```
 
 # features
 - addtion
